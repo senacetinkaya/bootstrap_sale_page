@@ -1,0 +1,15 @@
+.card {
+    background-color: #1f2d38;
+    color: antiquewhite;
+}
+.rounded_shape {
+    border-radius: 0 0 50px 50px;
+}
+
+.background_color {
+    background-color: #E9ECEF;
+}
+
+.border_jumbotron {
+    border: 3px solid rgb(74, 120, 136);
+}
